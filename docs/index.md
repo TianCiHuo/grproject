@@ -3,15 +3,15 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "HuoTianCi"
+  text: "欢迎来到我的个人网站"
+  tagline: 专为记录
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 关于我
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: GPT 未来已来 🌏
       link: /api-examples
 
 features:
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
